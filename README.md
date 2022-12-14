@@ -1,16 +1,15 @@
-### Hi there 👋
+#  Hey! 👋 Nice to see you.
 
-<!--
-**onlypositivemind/onlypositivemind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technology stack:
 
-Here are some ideas to get you started:
+* **HTML, CSS, SCSS**
+* **JavaScript, TypeScript**
+* **React, Next.js**
+* **Redux, Redux Toolkit**
+* **Webpack**
+* **Jest, React Testing Library, Storybook, Cypress**
+* **GIT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlypositivemind&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://streak-stats.demolab.com/?user=onlypositivemind&theme=darcula" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=onlypositivemind" style="max-width: 100%;">
