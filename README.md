@@ -14,6 +14,6 @@
 
 ## :email: Contacts:
 
-* <a href="https://t.me/onlypositivemind">Telegram</a>
-* <a href="https://vk.com/evggenyp">VK</a>
+* <a href="https://t.me/onlypositivemind" target="_blank">Telegram</a>
+* <a href="https://vk.com/evggenyp" target="_blank">VK</a>
 * evgenypetrov5230@gmail.com
