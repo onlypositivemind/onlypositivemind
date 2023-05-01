@@ -1,6 +1,6 @@
-# Hello :wave:, I'm Evgenii
+# Hello 👋, I'm Evgenii
 
-## :computer: Technology stack:
+## 💻 Technology stack:
 
 * HTML
 * CSS (SCSS, BEM)
@@ -12,3 +12,11 @@
 * Jest, React-testing-library, Cypress
 * Webpack
 * GIT
+
+
+## 🔥 Stats:
+[![codewars](https://www.codewars.com/users/onlypositivemind/badges/large)](https://www.codewars.com/users/onlypositivemind)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onlypositivemind&theme=dark)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlypositivemind&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
