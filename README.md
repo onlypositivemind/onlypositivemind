@@ -1,4 +1,4 @@
-# :wave: **Hi**
+# Hello :wave:, I'm Evgenii
 
 ## :computer: Technology stack:
 
