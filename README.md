@@ -9,7 +9,7 @@
 * **ReactJS**
 * **Redux (Redux-Thunk, Redux-Saga)**
 * **Redux Toolkit**
-* **Jest, React-testing-library, Cypress**
+* **Jest, React-testing-library, Storybook, Cypress**
 * **Webpack**
 * **GIT**
 
