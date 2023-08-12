@@ -9,3 +9,6 @@
 * **Jest, React-testing-library, Storybook, Cypress**
 * **Webpack**
 * **GIT**
+* **NodeJS**
+* **ExpressJS**
+* **MongoDB**
