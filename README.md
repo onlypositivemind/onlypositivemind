@@ -2,13 +2,12 @@
 
 ## 💻 Technology stack:
 
-* **HTML, CSS, SCSS**
-* **JavaScript, TypeScript**
-* **React, Next.js**
-* **Redux, Redux Toolkit**
-* **Webpack**
+* **JavaScript, TypeScript, React, Next.js**
+* **Redux, Redux Toolkit, Zustand, TanStack Query**
+* **HTML, CSS, SCSS / CSS Modules, Tailwind CSS**
+* **Webpack, Vite**
 * **Jest, React Testing Library, Storybook, Cypress**
-* **GIT**
+* **REST API, Graph QL**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlypositivemind&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
